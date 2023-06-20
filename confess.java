@@ -2,6 +2,6 @@ public confess
 {
 	public static void main(String[] args)
 	{
-		System.out.println("Saranghae");
+		System.out.println("Saranghae ye chae!!");
 	}
 }
